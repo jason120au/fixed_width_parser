@@ -1,9 +1,0 @@
-"Birth date","First name","Last name",Weight,Weight2
-1970-01-01,John,Smith,81.5,42.5
-1975-01-31,Jane,Doe,61.1,78.5
-1988-11-28,Bob,Big,102.4,99.3
-1988-11-28,jas$e,Big,109.4,78.9
-1970-01-01,"Joh,n",Smith,81.5,56.7
-1975-01-31,Jane,Doe,61.1,89.0
-1988-11-28,Bob,Big,102.4,78.0
-
