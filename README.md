@@ -12,7 +12,7 @@ fileOutput.php - Test file output not required
 
 fixed_width_file.txt - Test input file
 
-genTestData.php - Generate test data by copying the test data file muluiple times will generate a file of several GB in size using the default setting
+genTestData.php - Generate test data by copying the test data file multiple times will generate a file of several GB in size using the default setting
 
 getArgs.php - Test command line arguments
 
