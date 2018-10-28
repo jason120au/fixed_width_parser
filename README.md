@@ -20,7 +20,7 @@ meta_data_file.txt - Setup file with specification of each field in the data
 
 output.txt - The parsed output
 
-**parse.php - Main paese file requires validateData.php**
+**parse.php - Main execution file requires validateData.php**
 
 validateDate.php - Validates the data received in the input file
 
