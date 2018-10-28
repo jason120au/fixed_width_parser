@@ -4,7 +4,7 @@ Parses a fixed width file based on a meta data specification file. Written in PH
 
 To run execute
 
-php <meta_data_file> <fixed_width_file> <output file>
+php parse.php <meta_data_file> <fixed_width_file> <output file>
 
 # File List
 
@@ -20,7 +20,7 @@ meta_data_file.txt - Setup file with specification of each field in the data
 
 output.txt - The parsed output
 
-parse.php - Main paese file requires validateData.php
+**parse.php - Main paese file requires validateData.php
 
 validateDate.php - Validates the data received in the input file
 
