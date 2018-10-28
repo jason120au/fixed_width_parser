@@ -4,7 +4,7 @@ Parses a fixed width file based on a meta data specification file. Written in PH
 
 To run execute
 
-php parse.php <meta_data_file> <fixed_width_file> <output file>
+php parse.php meta_data_file fixed_width_file output file
 
 # File List
 
